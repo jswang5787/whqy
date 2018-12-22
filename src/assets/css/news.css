@@ -1,0 +1,77 @@
+.Lists{
+    min-height: 1061px;
+}
+.Lists li{
+    display: flex;
+    width: 884px;
+    height: 115px;
+    background: #ffffff;
+    margin:47px 0 35px 0;
+}
+.Lists li span{
+    display: block;
+    width: 115px;
+    height: 100%;
+    background: #e23f3f;
+    color: #fefefe;
+    font-size: 44px;
+    line-height: 2.5;
+    text-align: center;
+}
+.Lists2 li img{
+    width: 218px;
+    height: 147px;
+    margin: 0;
+}
+.Title h6{
+    margin-top: 25px;
+    font-size: 16px;
+    color: #334039;
+}
+.Title p{
+    color: #7a8790;
+    font-size: 12px;
+    display: block;
+    line-height: 20px;
+}
+.Lists li .Title{
+    width: 750px;
+    padding-left: 19px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-top: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+}
+.Lists2{
+    min-height: 1161px;
+    background: #ffffff;
+    margin:44px 0 27px 0;
+}
+.Lists2 li{
+    padding: 29px 0 27px;
+    display: flex;
+    width: 884px;
+    height: 147px;
+}
+.Title2{
+    width:666px ;
+    margin-left: 27px;
+}
+.Title2 h6{
+    margin-top: 10px;
+    color: #38434d;
+    font-size: 16px;
+}
+.Title2 em{
+    color: #7f858b;
+    font-size: 12px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #7f858b;
+    opacity: .57;
+}
+.Title2 p{
+    margin-top: 20px;
+    color: #434e59;
+    font-size: 12px;
+}
